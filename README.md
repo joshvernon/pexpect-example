@@ -3,7 +3,7 @@ An example using the pexpect library to test an interactive CLI game.
 
 ### Install and run on Linux with gcc
 ```shell
-make; make test
+$ make; make test
 ```
 
 
