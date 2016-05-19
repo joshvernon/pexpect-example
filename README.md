@@ -1,5 +1,5 @@
 # pexpect-example
-An example using the pexpect library to test an interactive CLI game.
+An example using the pexpect Python library to test an interactive CLI game.
 
 ### Install and run on Linux with gcc
 ```shell
