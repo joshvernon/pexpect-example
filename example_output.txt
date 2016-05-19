@@ -1,0 +1,74 @@
+./game_test.py
+You enter the The great Hall.
+
+> n
+n
+You go north, into:
+The throne room.
+
+> e
+e
+You go east, into:
+Kitchen, you have the knife now.
+
+> w
+w
+You go west, into:
+The throne room.
+
+> w
+w
+You go west, into:
+The arena, with the minotaur.
+
+> a
+a
+You attack The evil minotaur!
+It is still alive.
+
+> a
+a
+You attack The evil minotaur!
+It is still alive.
+
+> a
+a
+You attack The evil minotaur!
+It is still alive.
+
+> a
+a
+You attack The evil minotaur!
+It is dead!
+
+> e
+e
+You go east, into:
+The throne room.
+
+> s
+s
+You go south, into:
+The great Hall.
+
+> a
+a
+You flail in the air at nothing. Idiot.
+
+> a
+a
+You flail in the air at nothing. Idiot.
+
+> a
+a
+You flail in the air at nothing. Idiot.
+
+> a
+a
+You flail in the air at nothing. Idiot.
+
+> a
+a
+You flail in the air at nothing. Idiot.
+
+> 
